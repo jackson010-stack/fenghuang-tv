@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF0B0B0D</color>
+    <color name="surface">#FF16161A</color>
+    <color name="surface2">#FF202027</color>
+    <color name="gold">#FFE8B54A</color>
+    <color name="gold_dim">#FF8C6C25</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FF9A9AA2</color>
+    <color name="divider">#FF2A2A32</color>
+    <color name="ic_launcher_background">#FF0D171C</color>
+</resources>

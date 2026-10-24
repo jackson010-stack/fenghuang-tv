@@ -1,0 +1,26 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 签名私钥与口令，绝不提交
+signing/
+*.jks
+*.keystore
+keystore.properties
+
+# 构建产物
+dist/
+*.apk
+*.aab
+
+# 设计源文件（含原始照片，保留在本地）
+design/
+
+# 系统文件
+.DS_Store

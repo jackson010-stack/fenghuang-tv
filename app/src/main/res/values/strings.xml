@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">凤凰TV</string>
+    <string name="slogan">随时随地看世界</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_category">分类</string>
+    <string name="nav_live">直播</string>
+    <string name="nav_short">短剧</string>
+    <string name="search_hint">搜索你想看的影片</string>
+    <string name="loading">加载中…</string>
+    <string name="load_failed">加载失败，点击重试</string>
+    <string name="empty">没有内容</string>
+    <string name="result_count">共 %1$d 条</string>
+    <string name="load_more">加载更多</string>
+    <string name="play">播放</string>
+    <string name="episode_count">共 %1$d 集</string>
+</resources>
