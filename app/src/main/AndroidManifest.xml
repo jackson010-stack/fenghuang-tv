@@ -48,6 +48,7 @@
         <activity
             android:name=".ui.PlayerActivity"
             android:exported="false"
+            android:screenOrientation="sensorLandscape"
             android:configChanges="orientation|screenSize|keyboardHidden|screenLayout|smallestScreenSize"
             android:theme="@style/Theme.Dytt.Player" />
     </application>
