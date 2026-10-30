@@ -20,7 +20,7 @@ class ApiException(message: String) : Exception(message)
  */
 object ApiClient {
 
-    const val BASE_URL = "https://api.xhsdns.cn"
+    const val BASE_URL = "https://api.dyapis.cn"
 
     private val trustManager: X509TrustManager = run {
         val factory = TrustManagerFactory.getInstance(TrustManagerFactory.getDefaultAlgorithm())
